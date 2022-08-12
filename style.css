@@ -1,0 +1,228 @@
+
+
+.topnav {
+    float:right;
+    overflow:auto;
+   
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:aqua;
+    width: 809px;
+    
+    
+    }
+    .topnav a {
+        float: right;
+        color:black;
+        text-decoration: none;
+        font-size: 20px;
+        width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+        text-align:center; /* If you want the text to be centered */
+        padding: 14px;
+       
+      }
+      .topnav a:hover {
+        background-color: yellow;
+        color: black;
+        font-style:normal;
+        
+      }
+      .navbar a {
+        
+        display: block;
+        width: 100%;
+        text-align: right; /* If you want the text to be left-aligned on small screens */
+      }
+      .socialmedia{
+        float: left;
+         text-align:left;
+         font-style: italic;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         background-color: aqua;
+         
+                 
+     }
+     .socialmedia a{
+        
+        color:black;
+        text-decoration: none;
+        font-size: 20px;
+        width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+        text-align:center; /* If you want the text to be centered */
+        padding: 14px;
+        display:inline-block;
+     }
+    .socialmedia a:hover{
+        background-color:yellow;
+        color: black;
+        font-style:normal;
+     }
+    .about{
+      font-size: 20px;
+      width:auto;
+      color:black;
+      text-shadow: 2px 2px 8px green;
+      padding-top: 6%;
+      text-align: center;
+     }
+     .paragragh{
+       font-size: 20px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       background-color: lightblue;
+       font-variant-position: super;
+       width: 1100px;
+       border: 5px solid green;
+       padding:100px;
+       margin: 5px;
+       height: 100px;
+       font-style: italic;
+     }
+       
+  .paragragh2{
+      text-shadow: 2px 2px 8px aqua;
+      text-align: center;
+      font-style: oblique;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 25px;
+      padding-left: 35%;
+      margin: auto;
+     padding-bottom: 15%;
+     padding-top: 5%;
+      
+
+
+     }
+     .image{
+       padding-right: 65%;
+       padding-top: 5%;
+       padding-bottom:25;
+       padding-left: 5%;
+
+      }
+      .para3{
+         padding-left: 35%;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: italic;
+        color: black;
+       }
+       .h{
+         color:black;
+         text-align: center;
+         font-size: 25px;
+         padding-top: 9px;
+         margin: auto;
+         text-shadow: 2px 2px 8px blue;
+         
+}
+   .hh{
+
+    color:black;
+         text-align: center;
+         font-size: 25px;
+         padding-top: 9px;
+         margin: auto;
+         text-shadow: 2px 2px 8px orangered;
+   } 
+   .image2{
+     padding: 0%;
+     margin: auto;
+    
+   }
+   .image3{
+     padding: 0%;
+     margin: auto;
+    }
+    
+    .fotter{
+      font-size: 20px;
+      padding-top: 5%;
+      margin: auto;
+      font-weight: bold;
+}
+  .fotter2{
+    padding-left:60%;
+}
+  .copyright{
+    padding-left:32%;
+    font-size:25px;
+    font-style: normal;
+  }
+  
+  .copyright a:hover{
+    
+    color: blue;
+    text-decoration: none;
+  }
+  .collab{
+    padding-left: 30%;
+    font-size: 55px;
+    color: black;
+    text-shadow:2px 2px 8px green; 
+}
+  .pav{
+      font-size: 25px;
+      padding-left: 50%;
+      font-weight: bold;
+  }
+  .collab2{
+      padding-left: 10%;
+  }
+.result{
+  font-size: 20px;
+  color: blue;
+  padding-top:5%;
+}
+.contact{
+  font-size:20px;
+  padding-bottom: 2%;
+  font-style: normal;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: blue;
+  background-color: whitesmoke;
+}
+.development{
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  padding-right: 4%; 
+  
+}
+.development a:hover{
+  color: blue;
+  text-decoration: none;
+}
+.syll{
+  color: blue;
+  background-color:whitesmoke;
+  text-decoration: none;
+  
+}
+.bus{
+  background-color: yellow;
+  text-align: center;
+  font-size: 25px;
+  height: 55px;
+}  
+
+.syll a:hover{
+  color: blue;
+  text-decoration: none; 
+}
+.bus a:hover{
+  color: blue;
+  text-decoration: none;
+  
+}
+.co{
+  background-color:yellow;
+}
+
+
+      
+       
+
+
+     
+
+
